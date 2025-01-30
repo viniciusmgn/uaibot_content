@@ -43,6 +43,6 @@ def rename_pngs(ldr_name):
     print("Renaming and rotation completed successfully.")
 
 # Example usage
-ldr_name = "orchard_road"  # Change this to your desired prefix
+ldr_name = "hill"  # Change this to your desired prefix
 rename_pngs(ldr_name)
 
